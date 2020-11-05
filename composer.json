@@ -1,0 +1,11 @@
+{
+  "require": {
+    "dujo/rekenen": "1.1.0"
+  },
+  "repositories": [
+    {
+        "type": "vcs",
+        "url":  "git@github.com:vanduren/composer_example2.git"
+    }
+  ]
+}

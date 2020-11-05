@@ -1,0 +1,12 @@
+{
+  "require": {
+    "dujo/rekenen":"*"
+  },
+  "repositories": [
+    {
+        "type": "path",
+        "url":  "./../composer_example2"
+    }
+  ],
+  "minimum-stability": "dev"
+}
